@@ -10,3 +10,4 @@ JuSy.log = function(msg) {
 		window.console.info(msg);
 	}
 }
+
